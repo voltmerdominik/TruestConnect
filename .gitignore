@@ -2,3 +2,5 @@
 gittoken.txt
 *.txt
 node_modules/
+.expo/
+.lock
